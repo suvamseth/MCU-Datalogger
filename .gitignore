@@ -1,7 +1,7 @@
 
 MCU_Datalogger-backups/*
 MCUDataloggerGerber/*
-
+Libraries/
 
 
 
@@ -26,5 +26,5 @@ sym-lib-table
 *.kicad_sch-bak
 *.kicad_pcb-bak
 
-# Ignore library folder 
-Libraries/
+
+
