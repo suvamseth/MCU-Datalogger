@@ -4456,7 +4456,7 @@
 		)
 	)
 	(sheet
-		(at 226.06 113.03)
+		(at 203.2 110.49)
 		(size 45.72 35.56)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4472,7 +4472,7 @@
 		)
 		(uuid "dbde1bf3-31e8-43a9-a1f1-c0653e04f173")
 		(property "Sheetname" "Connectors"
-			(at 226.06 112.3184 0)
+			(at 203.2 109.7784 0)
 			(show_name yes)
 			(effects
 				(font
@@ -4482,7 +4482,7 @@
 			)
 		)
 		(property "Sheetfile" "connectors.kicad_sch"
-			(at 226.06 149.1746 0)
+			(at 203.2 146.6346 0)
 			(show_name yes)
 			(effects
 				(font
