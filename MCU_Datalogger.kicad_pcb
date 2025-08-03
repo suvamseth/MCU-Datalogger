@@ -2239,7 +2239,7 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -3718,13 +3718,14 @@
 			)
 		)
 		(property "Value" "ATMEGA328P-AU"
-			(at 1 6.5 0)
+			(at -0.25 6.25 0)
 			(layer "F.Fab")
 			(uuid "673046ac-805c-4b4a-b811-5c5c331b2065")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
+					(italic yes)
 				)
 			)
 		)
@@ -4875,7 +4876,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 10 4.12 90)
+			(at 7.75 5.12 90)
 			(layer "F.Fab")
 			(uuid "97d932ab-cb10-4060-ad11-1bce062bb157")
 			(effects

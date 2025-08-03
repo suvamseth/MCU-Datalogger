@@ -3935,6 +3935,16 @@
 		)
 		(uuid "4bc3f91d-1136-411a-a971-27dccd7f6fe0")
 	)
+	(label "Vcc"
+		(at 260.35 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "51dd7b62-6898-4bb5-8556-b84cc1644fae")
+	)
 	(label "RX"
 		(at 231.14 48.26 0)
 		(effects
